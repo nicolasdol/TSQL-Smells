@@ -1,6 +1,6 @@
-#################
-## Eclipse
-#################
+.vs
+packages
+*.jfm
 
 *.pydevproject
 .project
